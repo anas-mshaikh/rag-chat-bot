@@ -1,0 +1,13 @@
+# Core RAG & Framework
+langchain
+langchain-community
+langchain-google-genai
+langchain-pinecone
+streamlit
+python-dotenv
+
+# PDF Processing
+pypdf
+
+# For Pinecone
+pinecone-client
